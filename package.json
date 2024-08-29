@@ -1,0 +1,39 @@
+{
+  "name": "eventure",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@googlemaps/js-api-loader": "^1.16.8",
+    "@mui/material": "^6.0.0",
+    "@radix-ui/react-label": "^2.1.0",
+    "@tabler/icons-react": "^3.14.0",
+    "@types/google.maps": "^3.55.12",
+    "axios": "^1.7.5",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.30",
+    "next": "14.2.7",
+    "react": "^18",
+    "react-calendar": "^5.0.0",
+    "react-dom": "^18",
+    "rsuite": "^5.70.0",
+    "tailwind-merge": "^2.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
